@@ -6,9 +6,9 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
@@ -19,13 +19,21 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/alecmarsico' # Fill with your Linkedin homepage
+
+- type: steam
+  icon: 'fab fa-steam-symbol' #'fab fa-steam'
+  url:  'https://steamcommunity.com/profiles/76561198117434760/' # Fill with your Steam homepage
+
+- type: discord
+  icon: 'fab fa-discord'
+  url:  'https://discord.com/channels/525442052041736192/' # Fill with your Discord Server
 #
-# - type: stack-overflow
+# - type: discord
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url: ''                   # Fill with your Bluesky profile link
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
