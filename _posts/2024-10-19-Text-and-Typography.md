@@ -2,7 +2,7 @@
 title: "Text and Typography"
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 date: 2024-10-19 15:08:00 -0500
-categories: [homelab]
+categories: [Home-Lab]
 tags: [jekyll, chirpy] # TAG names should always be lowercase
 pin: true
 math: true
