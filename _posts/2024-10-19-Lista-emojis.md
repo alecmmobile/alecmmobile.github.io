@@ -5,7 +5,7 @@ date: 2024-10-19 15:08:00 +/-TTTT
 categories: [Home-Lab]
 tags: [jekyll, emoji, chirpy]     # TAG names should always be lowercase
 image:
- path: /assets/img/headers-explodesigns/emojis.gif
+ path: /assets/img/headers/emojis_header.gif
 ---
 
 People
