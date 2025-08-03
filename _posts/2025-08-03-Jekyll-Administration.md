@@ -63,3 +63,9 @@ bundle exec jekyll serve
     localhost:4000/posts/Jekyll-Administration/
     
 
+Para configurar el primer Git commit en VS code.
+
+``` js
+git config --global user.name "username"
+git config --global user.email "email@gmail.com"
+```
