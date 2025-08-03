@@ -68,4 +68,6 @@ Para configurar el primer Git commit en VS code.
 ``` js
 git config --global user.name "username"
 git config --global user.email "email@gmail.com"
+
+https://pbs.twimg.com/profile_images/1847703782139760640/csW_BTyi_400x400.jpg
 ```

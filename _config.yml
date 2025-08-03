@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1847703782139760640/csW_BTyi_400x400.jpg
+avatar: https://raw.githubusercontent.com/alecmmobile/alecmmobile.github.io/refs/heads/main/assets/img/Icons/dedicated-server.gif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
